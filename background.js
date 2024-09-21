@@ -32,7 +32,7 @@ chrome.webRequest.onBeforeRequest.addListener(
               console.log('Error sending message:', chrome.runtime.lastError.message);
             }
           });
-          break;  // Stop after finding the first match
+          break;
         }
       }
     }
