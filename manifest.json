@@ -18,5 +18,11 @@
       "js": ["content.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  "icons": {
+    "16": "/images/download.png",
+    "32": "/images/download.png",
+    "48": "/images/download.png",
+    "128": "/images/download.png"
+  }
 }
