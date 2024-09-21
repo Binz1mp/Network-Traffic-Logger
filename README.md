@@ -3,4 +3,4 @@ This catches network traffic that can be found in Chrome DevTools Network tab an
 
 ![image](https://github.com/user-attachments/assets/63c4da21-db50-49f2-bd34-9fbf50b298c1)
 
-I created this to do network analysis on Discord, but who knows, it might be used elsewhere ;)
+I made this to do network analysis on Discord, but who knows, it might be used elsewhere ;)
